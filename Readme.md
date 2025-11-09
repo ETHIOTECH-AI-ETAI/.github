@@ -1,11 +1,6 @@
 <p align="center"\>  
-<\!--  
-INSERT YOUR MAIN ETAI LOGO HERE.  
-A wide banner logo is recommended.  
-Example: \<img src="URL\_TO\_YOUR\_ETAI\_BANNER\_LOGO.png" alt="ETHIOTECH AI (ETAI) Foundation" width="800"\>  
---\>
+<img src="https://github.com/ETHIOTECH-AI-ETAI/.github/blob/b536673cda4eb7c44152b647655b016f079ac10d/ethiotech-ai.png" alt="ETHIOTECH AI (ETAI) Foundation" width="800"\>  
 
-<strong\>\[ETAI\_LOGO\_PLACEHOLDER\]\</strong\>
 
 <h1\>ETHIOTECH AI (ETAI)\</h1\>  
 <strong\>Ethiopia's First AI Foundation. Building Africa's Digital Future.\</strong\>  
