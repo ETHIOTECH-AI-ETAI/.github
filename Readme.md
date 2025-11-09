@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- I've left a placeholder for your website -->
-  <a href="https://YOUR_WEBSITE_HERE.com">
+  <a href="https://gpt3.ethio-tech.com">
     <img src="https://img.shields.io/badge/Website-ETAI-green?style=for-the-badge&logo=world" alt="Website">
   </a>
   <a href="https://www.linkedin.com/company/ethio-tech-ai">
