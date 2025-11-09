@@ -1,24 +1,24 @@
-\<p align="center"\>  
-\<\!--  
+<p align="center"\>  
+<\!--  
 INSERT YOUR MAIN ETAI LOGO HERE.  
 A wide banner logo is recommended.  
 Example: \<img src="URL\_TO\_YOUR\_ETAI\_BANNER\_LOGO.png" alt="ETHIOTECH AI (ETAI) Foundation" width="800"\>  
-\--\>
+--\>
 
-\<strong\>\[ETAI\_LOGO\_PLACEHOLDER\]\</strong\>
+<strong\>\[ETAI\_LOGO\_PLACEHOLDER\]\</strong\>
 
-\<h1\>ETHIOTECH AI (ETAI)\</h1\>  
-\<strong\>Ethiopia's First AI Foundation. Building Africa's Digital Future.\</strong\>  
-\</p\>  
-\<p align="center"\>  
-\<a href="https://\[YOUR\_WEBSITE\_HERE.com\]"\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-ETAI-green%3Fstyle%3Dfor-the-badge%26logo%3Dworld" alt="Website"\>  
-\</a\>  
-\<a href="https://www.google.com/search?q=https://www.youtube.com/%40EthioTechWithJayP"\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-Ethio%2520Tech-red%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube" alt="YouTube"\>  
-\</a\>  
-\<\!-- Add other badges as needed, e.g., Twitter, LinkedIn \--\>  
-\</p\>
+<h1\>ETHIOTECH AI (ETAI)\</h1\>  
+<strong\>Ethiopia's First AI Foundation. Building Africa's Digital Future.\</strong\>  
+</p\>  
+<p align="center"\>  
+<a href="https://\[YOUR\_WEBSITE\_HERE.com\]"\>  
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-ETAI-green%3Fstyle%3Dfor-the-badge%26logo%3Dworld" alt="Website"\>  
+</a\>  
+<a href="https://www.google.com/search?q=https://www.youtube.com/%40EthioTechWithJayP"\>  
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-Ethio%2520Tech-red%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube" alt="YouTube"\>  
+</a\>  
+<\!-- Add other badges as needed, e.g., Twitter, LinkedIn \--\>  
+</p\>
 
 ## **🇪🇹 Our Mission: Digital Sovereignty for Africa**
 
